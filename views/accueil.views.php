@@ -2,7 +2,7 @@
 ob_start(); 
 ?>
 
-Ici la page d'accueil
+Ici la page d'accueil redirection
 
 <?php
 $content = ob_get_clean();
